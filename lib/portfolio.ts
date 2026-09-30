@@ -67,7 +67,7 @@ export const projects: Project[] = [
   },
   {
     id: 'tech-startup',
-    title: 'CissGroup: # Developing modern spaces in global communities',
+    title: 'CissiGroup: # Developing modern spaces in global communities',
     category: 'websites',
     client: 'TechFlow Inc',
     result: 'Seed funding announced with strong investor interest.',
@@ -91,10 +91,28 @@ export const projects: Project[] = [
     image: '/turtleandbloom.png',
     url: 'https://turtleandbloom.com/',
   },
+  {
+    id: 'nusafiri',
+    title: 'Nusafiri',
+    category: 'websites',
+    client: 'Nusafiri',
+    result: 'We design experiences',
+    image: '/nusafiri.png',
+    url: 'https://nusafiriluxy.vercel.app/',
+  },
+  {
+    id: 'parametric-gc',
+    title: 'ParametricGC',
+    category: 'websites',
+    client: 'ParametricGC',
+    result: 'We operate where the stakes are highest.',
+    image: '/parametric.png',
+    url: 'https://parametric-gules.vercel.app/',
+  },
 ]
 
 export const clientLogos = [
-  { id: 1, name: 'CissGroup', image: '/CISSI-LOGO-WHITE-1.png' },
+  { id: 1, name: 'CissiGroup', image: '/CISSI-LOGO-WHITE-1.png' },
   { id: 2, name: 'Bradama', image: '/brandama-_logo-1.png' },
   { id: 3, name: 'twitwi', image: '/Colored-BPexolyV.png' },
   { id: 4, name: 'Client D', image: '/Oscion_logo.webp' },

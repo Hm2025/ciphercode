@@ -8,14 +8,14 @@ export const siteConfig = {
   nav: [
     { label: 'About', href: '#about' },
     { label: 'Services', href: '#services' },
-    { label: 'Portfolio', href: '#portfolio' },
+    { label: 'Portfolio', href: '#websites-apps' },
     { label: 'Training', href: '#training' },
     { label: 'Contact', href: '#contact' },
   ],
   
   hero: {
     headline: 'Digital work for governments, companies and public figures.',
-    subtext: 'CIPHER-CODEX builds websites and apps, designs brands, runs campaigns, secures data and automates work with AI.',
+    subtext: 'CIPHER-CODEX builds websites and apps, develops brands, runs campaigns, secures data and automates work with AI.',
     clients: ['Startups & small businesses', 'Oil and gas', 'Government', 'Political offices', 'Individuals', 'All sectors that need our services'],
   },
   

@@ -180,9 +180,18 @@
 }
 
 @media (max-width: 639px) {
+  html {
+    scroll-padding-top: 5rem;
+  }
+
   #portfolio,
   #training {
     padding-block: 4rem;
+  }
+
+  #websites-apps article > div a {
+    min-height: 44px;
+    align-items: center;
   }
 
   #contact {
